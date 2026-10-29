@@ -46,7 +46,7 @@
 <h3>Backend Development</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Skills"/>
 </p>
 
 <h3>Database & Version Control</h3>
@@ -58,7 +58,7 @@
 <h3>Additional Technologies</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Programming Languages"/>
 </p>
 
 ---
