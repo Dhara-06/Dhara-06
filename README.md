@@ -82,7 +82,7 @@
   Internship Experience
 </h2>
 
-**MentorBridge | Dindigul, Tamil Nadu**
+**1. MentorBridge | Dindigul, Tamil Nadu**
 
 *July 2026 - Present*
 
@@ -92,7 +92,7 @@
 - Occasionally conducting technical sessions to share knowledge with fellow students. 
 - Improving problem-solving, communication, and presentation skills.
 
-**Techjays | Coimbatore, Tamil Nadu**
+**2. Techjays | Coimbatore, Tamil Nadu**
 
 *November 2025 - January 2026*
 
