@@ -8,7 +8,6 @@
 ---
 
 <h2>
-  <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="25" alt="About"/>
   About Me
 </h2>
 
@@ -22,7 +21,6 @@
 ---
 
 <h2>
-  <img src="https://img.icons8.com/fluency/48/source-code.png" width="25" alt="Tech Stack"/>
   Technical Skills
 </h2>
 
@@ -53,7 +51,6 @@
 ---
 
 <h2>
-  <img src="https://img.icons8.com/fluency/48/code.png" width="25" alt="Projects"/>
   Featured Projects
 </h2>
 
@@ -82,7 +79,6 @@
 ---
 
 <h2>
-  <img src="https://img.icons8.com/fluency/48/briefcase.png" width="25" alt="Experience"/>
   Internship Experience
 </h2>
 
@@ -97,7 +93,6 @@
 ---
 
 <h2>
-  <img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="25" alt="Education"/>
   Education
 </h2>
 
@@ -110,7 +105,6 @@ SSM Institute of Engineering and Technology, Dindigul
 ---
 
 <h2>
-  <img src="https://img.icons8.com/fluency/48/certificate.png" width="25" alt="Certifications"/>
   Certifications & Achievements
 </h2>
 
@@ -120,7 +114,6 @@ SSM Institute of Engineering and Technology, Dindigul
 ---
 
 <h2>
-  <img src="https://img.icons8.com/fluency/48/communication.png" width="25" alt="Soft Skills"/>
   Soft Skills
 </h2>
 
@@ -132,7 +125,6 @@ SSM Institute of Engineering and Technology, Dindigul
 ---
 
 <h2>
-  <img src="https://img.icons8.com/fluency/48/contacts.png" width="25" alt="Contact"/>
   Connect With Me
 </h2>
 
