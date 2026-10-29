@@ -82,6 +82,16 @@
   Internship Experience
 </h2>
 
+**MentorBridge | Dindigul, Tamil Nadu**
+
+*July 2026 - Present*
+
+- Currently undergoing technical training at MentorBridge as a Frontend Engineer, focusing on strengthening frontend development skills through hands-on practice and collaborative learning. 
+- Learning and practicing HTML,  JavaScript, and React.js. Building responsive and user-friendly web interfaces through practical tasks. 
+- Participating in coding challenges, technical discussions, and peer learning activities. 
+- Occasionally conducting technical sessions to share knowledge with fellow students. 
+- Improving problem-solving, communication, and presentation skills.
+
 **Techjays | Coimbatore, Tamil Nadu**
 
 *November 2025 - January 2026*
